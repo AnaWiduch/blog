@@ -1,0 +1,13 @@
+
+-------------------------------------------------
+
+pip install fastapi
+
+Name: fastapi
+Version: 0.110.1
+
+--------------------------------------------------
+pip install "uvicorn[standard]"
+
+Name: uvicorn
+Version: 0.29.0
